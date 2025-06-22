@@ -1,0 +1,3 @@
+course_id|pk|int
+name|npk|string
+credits|npk|int
